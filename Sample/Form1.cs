@@ -20,7 +20,7 @@ namespace Sample
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.metroStyleManager1.Style = (MetroFramework.MetroColorStyle.Teal);
+            //this.metroStyleManager1.Style = (MetroFramework.MetroColorStyle.Teal);
         }
 
         private void metroLabel1_Click(object sender, EventArgs e)
